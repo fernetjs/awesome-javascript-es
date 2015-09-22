@@ -26,6 +26,7 @@ Inspirada en [awesome](https://github.com/sindresorhus/awesome). Si querés cont
 - [Apuntes JS intermedio](https://leanpub.com/apuntes-javascript-intermedio)
 - [Apuntes JS avanzado](https://leanpub.com/apuntes-javascript-avanzado)
 - [JavaScriptYa](http://www.javascriptya.com.ar/)
+- [Curso interactivo: Clausuras ó Closures](http://nathansjslessons.appspot.com/lesson?id=1000&lang=es)
 
 ## Sitios/Blogs
 
