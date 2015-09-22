@@ -5,10 +5,10 @@ Inspirada en [awesome](https://github.com/sindresorhus/awesome). Si querés cont
 
 ## Tabla de contenidos
 
-- [Recursos](#Recursos)
-- [Sitios/Blogs](#Sitios/Blogs)
-- [Videos](#Videos)
-- [Meetups](#Meetups)
+- [Recursos](#recursos)
+- [Sitios/Blogs](#sitiosblogs)
+- [Videos](#videos)
+- [Meetups](#meetups)
 
 ## Recursos
 
