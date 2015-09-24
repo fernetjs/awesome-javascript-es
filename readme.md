@@ -59,6 +59,7 @@ Inspirada en [awesome](https://github.com/sindresorhus/awesome). Si querés cont
 - [beerjs](http://www.meetup.com/Beer-js-Buenos-Aires/)
 - [meteor Buenos Aires](http://www.meetup.com/Meteor-Buenos-Aires/)
 - [La plata JS](https://twitter.com/LaPlataJS)
+- [BA Node.js](https://github.com/banodejs/Bienvenido)
 
 ## Licencia
 
